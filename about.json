@@ -26,6 +26,12 @@
       "primary-medium": "666666",
       "primary-low-mid": "999999",
       "primary-low": "cccccc"
+    },
+    “My_colors”: {
+      "primary-high": "333333",
+      "primary-medium": "666666",
+      "primary-low-mid": "999999",
+      "primary-low": "cccccc"
     }
   },
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
