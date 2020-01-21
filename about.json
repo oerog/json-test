@@ -11,7 +11,7 @@
     "badge": "assets/badge.png"
   },
   "color_schemes": {
-    "erase": {
+    "blue-lite": {
       "primary": "222222",
       "secondary": "ffffff",
       "tertiary": "2572e4",
